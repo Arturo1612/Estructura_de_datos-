@@ -1,0 +1,126 @@
+Espada Maestra,60,40  
+Rama de Arbol,2,4  
+Antorcha,2,8  
+Cucharon de Sopa,4,5  
+Bumeran,8,18  
+Martillo con Resorte,1,80  
+Espada del Viajero,5,20  
+Espada del Soldado,14,25  
+Espada de Caballero,26,27  
+Espada Real,36,36  
+Espada del Bosque,22,27  
+Espada Zora,15,27  
+Espada Pluma,15,27  
+Cimitarra Gerudo,16,23  
+Cimitarra de la Luna,25,32  
+Cimitarra de las Siete,32,60  
+Espada Ocho Pliegues,15,26  
+Espada Corta Ancestral,40,54  
+Espada Oxidada,6,8  
+Espada de la Guardia Real,48,14  
+Hoja de Llama,24,36  
+Hoja de Hielo,20,30  
+Hoja de Rayo,22,36  
+Espada del Heroe,22,27  
+Boomerang del Mar,20,20  
+Garrote Boko,4,8  
+Garrote Boko Espinado,12,14  
+Garrote Boko con Huesos de Dragon,24,18  
+Boomerang Lizal,14,17  
+Boomerang Lizal con Cuchillas,24,25  
+Boomerang Lizal Triple,36,27  
+Espada Guardiana,20,17  
+Espada Guardiana+,30,26  
+Espada Guardiana++,40,32  
+Espada Lynel,24,26  
+Espada Poderosa Lynel,36,32  
+Espada Salvaje Lynel,58,41  
+Varita de Fuego,5,14  
+Varita Meteoro,10,32  
+Varita de Hielo,5,14  
+Varita Ventisca,10,32  
+Varita de Rayo,5,14  
+Varita Tormenta,10,32  
+Hoz Vil,16,14  
+Cincel Demoniaco,40,25  
+Brazo de Bokoblin,5,5  
+Brazo de Lizalfos,12,8  
+Hoja Korok,1,25  
+Azadon de Granjeros,16,6  
+Remo de Bote,14,8  
+Hacha de Lenador,3,47  
+Hacha Doble,18,52  
+Mazo de Hierro,12,40  
+Gran Bumeran,25,40  
+Claymore del Viajero,10,20  
+Claymore del Soldado,20,25  
+Claymore del Caballero,38,30  
+Claymore Real,52,40  
+Espada Larga Plateada,22,30  
+Triturador de Rocas,15,30  
+Rompe Rocas,42,40  
+Destructor de Rocas,60,60  
+Espada de Oro,28,30  
+Gran Espada Ocho Pliegues,32,25  
+Filo de la Dualidad,50,35  
+Sierra Ancestral,55,50  
+Claymore Oxidada,12,10  
+Claymore de la Guardia Real,72,15  
+Gran Hoja de Fuego,34,50  
+Gran Hoja de Hielo,30,40  
+Gran Hoja de Rayo,32,50  
+Espada de los Seis Sabios,48,50  
+Espada Biggoron,50,60  
+Espada de la Deidad Feroz,60,35  
+Garrote Boko,6,12  
+Garrote Boko Espinado,18,12  
+Garrote Boko con Huesos de Dragon,36,16  
+Maza Moblin,9,12  
+Maza Moblin Espinada,27,18  
+Maza Moblin con Huesos de Dragon,45,24  
+Hacha de Batalla Ancestral,30,15  
+Hacha de Batalla Ancestral+,45,20  
+Hacha de Batalla Ancestral++,60,25  
+Triturador Lynel,36,20  
+Triturador Poderoso Lynel,54,25  
+Triturador Salvaje Lynel,78,35  
+Espada Rompe Viento,40,25  
+Brazo de Moblin,15,5  
+Mopa de Madera,5,8  
+Tridente de Granjeros,7,12  
+Arpon de Pesca,8,12  
+Lanza Arrojadiza,6,20  
+Lanza del Viajero,3,30  
+Lanza del Soldado,7,35  
+Alabarda del Caballero,13,40  
+Alabarda Real,26,50  
+Lanza del Bosque,11,35  
+Lanza Zora,9,40  
+Lanza Escama de Plata,12,40  
+Tridente Ceremonial,14,40  
+Tridente Escama de Luz,22,70  
+Perforador,14,50  
+Lanza Pluma,10,35  
+Lanza Gerudo,16,35  
+Lanza Serpentina,12,35  
+Lanza Ancestral,30,50  
+Alabarda Oxidada,5,15  
+Alabarda de la Guardia Real,32,15  
+Lanza de Fuego,24,50  
+Lanza de Hielo,20,40  
+Lanza de Rayo,22,50  
+Lanza Boko,2,12  
+Lanza Boko Espinada,6,15  
+Lanza Boko con Huesos de Dragon,12,20  
+Lanza Moblin,4,15  
+Lanza Moblin Espinada,9,20  
+Lanza Moblin con Huesos de Dragon,15,25  
+Lanza Lizal,7,18  
+Lanza Lizal Mejorada,12,22  
+Lanza Lizal con Cuchillas,18,28  
+Lanza Guardiana,10,20  
+Lanza Guardiana+,15,25  
+Lanza Guardiana++,20,35  
+Lanza Lynel,14,25  
+Lanza Poderosa Lynel,20,35  
+Lanza Salvaje Lynel,30,45  
